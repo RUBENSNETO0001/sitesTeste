@@ -1,0 +1,78 @@
+body {
+    background-color: rgb(19, 19, 19);
+}
+
+#inicio01 {
+    background-color: rgb(39, 39, 39);
+    box-shadow: none;
+    color: aliceblue;
+    display: flex;
+    height: 30px;
+    margin-top: -8px;
+    width: 1349px;
+    margin-left: -8px;
+}
+
+#nome_site {
+    margin-top: 4px;
+    margin-left: 13px;
+}
+
+#voltar {
+    margin-left: 1210px;
+    margin-top: 7px;
+}
+
+img {
+    height: 950px;
+    width: 700px;
+    margin-left: 330px;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+nav {
+    position: relative;
+    left: 49%;
+    padding-left: 10px;
+    padding-top: 12px;
+    background-color: red;
+    height: 35px;
+    width: 80px;
+    animation-name: anima;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes anima {
+    0% {
+        background-color: red;
+    }
+
+    14% {
+        background-color: orange;
+    }
+
+    28% {
+        background-color: yellow;
+    }
+
+    46% {
+        background-color: green;
+    }
+
+    62% {
+        background-color: blue;
+    }
+
+    87% {
+        background-color: indigo;
+    }
+
+    100% {
+        background-color: blueviolet;
+    }
+}

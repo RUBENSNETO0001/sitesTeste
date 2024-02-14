@@ -1,0 +1,80 @@
+img{
+    width: 450px;
+}
+
+ body{
+    color: aliceblue;
+ }
+ 
+ header{
+    text-align: center;
+    position: relative;
+    top: -100px;
+ }
+
+ img {
+   margin-top: 100px;
+ }
+
+a{
+    text-decoration: none;
+    padding: 2px;
+    border-radius: 5px;
+    box-shadow: 3px 4.5px white;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    transition: 5s;
+    display: flex;  
+    margin-left: 5px;
+    gap: 20px;
+    }
+
+    h5{
+    text-align: center;
+    }
+
+     nav{
+        width: 1000px;
+        margin-left: 170px;
+        margin-top: 8%;
+        color: aliceblue;
+     }
+
+     legend{
+        margin-left: 450px;
+        justify-content: center;
+     }
+     
+     h4{
+      text-align: center;
+      }
+      label{
+         display: flex;
+         margin-left: 590px;
+      }
+  
+    form{
+      margin-left: 50px;
+    }
+  
+    as{
+      margin-top: 30px;
+    }
+    audio{
+      color: black;
+    }
+   h1{
+    text-shadow: 2px 2px 2px rgb(0, 0, 0) , -2px 2px 2px rgb(0, 0, 0), 2px -2px 2px rgb(0, 0, 0), -3px -3px 3px #232 ;
+    color:rgb(232, 244, 255)
+   }
+   h11{
+    text-shadow: 2px 2px 2px rgb(255, 255, 255) , -2px 2px 2px rgb(255, 255, 255), 2px -2px 2px rgb(255, 255, 255), -3px -3px 3px #232 ;
+    color: rgb(255, 0, 0);
+   }
+    h12{
+    text-shadow: 2px 2px 2px rgb(255, 255, 255) , -2px 2px 2px rgb(255, 255, 255), 2px -2px 2px rgb(255, 255, 255), -3px -3px 3px #232 ;
+    color: rgb(252, 63, 63);
+   }
+
+
+  

@@ -1,0 +1,17 @@
+#conteiner{
+background-color: black;
+height: 50%;
+width: 50%;
+animation-name: anima;
+animation-duration: 4s;
+animation-delay: 1s;
+animation-iteration-count: infinite;
+}
+@keyframes anima{
+    from{
+        background-color: black;
+    }
+    to{
+        background-color: aliceblue;
+    }
+}

@@ -1,0 +1,84 @@
+body {
+  text-align: center;
+  background-color: rgb(66, 66, 66);
+}
+
+input {
+  display: flex;
+  margin-left: 12px;
+  padding-top: 1px;
+  width: 263px;
+  padding-left: 2%;
+}
+
+form {
+  color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgb(49, 49, 49);
+  font-size: 15px;
+  top: 37%;
+  left: 50%;
+  position: fixed;
+  transform: translate(-50%, -50%);
+  border-radius: 3px;
+  box-shadow: inset 0px 12px 25px 5px rgba(0, 0, 0, 0.4);
+  height: 212px;
+  width: 300px;
+}
+
+p {
+  position: fixed;
+  margin-top: 55%;
+  margin-left: 110px;
+  padding: auto;
+  display: flex;
+  padding-top: 12px;
+  transform: translate(-50%, -50%);
+}
+
+ul {
+  background-color: rgb(49, 49, 49);
+  box-shadow: inset 0px 12px 25px 5px rgba(0, 0, 0, 0.4);
+}
+
+#logo {
+  background-color: rgb(49, 49, 49);
+  box-shadow: inset 0px 4px 4px 4px rgba(0, 0, 0, 0.4);
+  height: 30px;
+  width: 110px;
+  position: relative;
+  left: 46%;
+  top: 70px;
+}
+
+#nomelogo {
+  color: #e6e6e6;
+
+}
+
+#nomelogo {
+  padding-top: 3px;
+}
+
+#erros {
+  margin-left: -42px;
+  color: rgb(187, 41, 41);
+}
+
+#panda {
+  height: 90px;
+  width: 90px;
+  margin-left: -240px;
+  margin-top: 7px;
+}
+
+#regin {
+  text-decoration: none;
+  color: rgb(255, 0, 0);
+  transition: 1s;
+}
+
+#regin:hover {
+  color: rgb(98, 0, 255);
+}

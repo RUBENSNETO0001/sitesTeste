@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+}
+
+#principal {
+    background-color: rgb(29, 29, 29);
+    color: aliceblue;
+    display: flex;
+}
+
+#voltar {
+    margin-left: 1150px;
+    margin-top: 10px;
+}

@@ -1,0 +1,26 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+#form_01{
+    display: flex;
+    background-color: rgb(168, 168, 168);
+    height: 40px;
+}
+#logo{
+    position: fixed;
+    top: 10px;
+    left: 5px;
+   font-size: 20px;
+   font-family: Arial;
+ 
+}
+#voltar{
+    position: relative;
+    top: 10px;
+    left: 45%;
+    font-size: 18px;
+    font-family: Arial;
+}
+
+

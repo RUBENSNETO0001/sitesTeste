@@ -1,0 +1,117 @@
+body{
+    background-color: rgb(19, 19, 19); 
+}
+#inicio01{
+    background-color: rgb(39, 39, 39);
+    box-shadow: none;
+    color: aliceblue;
+    display: flex;
+    height: 30px;
+    margin-top: -8px;
+    width: 1365px;
+    margin-left: -8px;
+}
+#nomedaobra{
+ padding-left: 12px;
+}
+#nome_site{
+    margin-top: 4px;
+    margin-left: 13px;
+}
+#voltar{
+    margin-left: 1210px;
+    margin-top: 7px;
+}
+img{
+    height: 85%;
+    width: 18%;
+    margin-top: 28px;
+    margin-left: 20px;
+}
+#lobbasic{
+    background-color: rgb(34, 34, 34);
+    display: flex;
+    color: aliceblue;
+    height: 400px;
+}
+#nome{
+    display: flex;
+    margin-left: 55px;
+    margin-top: 25px;
+}
+#descricao{
+    display: flex;
+    margin-left: 320px;
+    margin-top: -340px;
+    width: 500px;
+    color: aliceblue;
+}
+#descrisui{
+    padding-left: 12px;
+}
+#capitulos{
+    display: flex;
+    margin-left: 320px;
+    color: aliceblue;
+}
+#categoria01{
+    margin-left: 12px;
+    height: 29px;
+    margin-top: 16px;
+}
+#comentario{
+    margin-left: 900px;
+    
+}
+#comenti{
+    width: 400px;
+    margin-top: -20px;
+    height: 25px;
+}
+
+#cn{
+    margin-top: -230px;
+    color: aliceblue;
+}
+main{
+    background-color: rgb(34, 34, 34);
+    height: 100px;
+    width: 1285px;
+    top: 457px;
+    left: 3%;
+    position: fixed;
+}
+#caps{
+
+    background-color: rgb(39, 39, 39);
+    height: 70px;
+    width: 1246px;
+    position: fixed;
+    top: 472px;
+    left: 4%;
+    padding-left: 12px;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+    display: flex;
+    padding-top: 2px;
+}
+
+#autor{
+    display: flex;
+    margin-left: 321px;
+  
+    width: 500px;
+    color: aliceblue;
+}
+#auro{
+    position: fixed;
+    left: 29%;
+    top: 313px;
+}
+#mensagens{
+position: fixed;
+left: 500px;
+}

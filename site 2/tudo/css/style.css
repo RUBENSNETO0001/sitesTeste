@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    font-size: 19px;
+
+}
+
+
+#inicio {
+    display: flex;
+    background-color: rgb(168, 168, 168);
+}
+
+#logo {
+    padding-left: 5px;
+    font-size: 30px;
+    margin-top: 8px;
+
+}
+
+#explore {
+    position: fixed;
+    left: 1190px;
+    top: 13px;
+    text-decoration: none;
+    color: black;
+}
+
+#conta {
+    color: black;
+    background-color: white;
+    position: fixed;
+    left: 1270px;
+    top: 9px;
+    border-radius: 25%;
+}
+
+#conta:hover {
+    color: rgb(255, 255, 255);
+    background-color: black;
+
+}
+
+#mais {
+    box-sizing: border-box;
+    background-color: rgb(148, 148, 148);
+    margin-top: 12px;
+    margin-left: 12px;
+    width: 98%;
+    color: black;
+    padding-left: 47%;
+    text-decoration: none;
+    font-family: arial black;
+}
+
+#tras02 {
+    box-sizing: border-box;
+    background-color: rgb(190, 190, 190);
+    margin-left: 12px;
+    width: 98%;
+
+}
+
+.modal-title-mini {
+    opacity: 50%;
+    margin-top: 30px;
+    margin-left: -87px;
+}
+
+#dis_modal {
+    font-size: 25px;
+}
+
+.imagem {
+    padding-left: 12px;
+    margin-left: 50px;
+    margin-top: 23px;
+}
+
+.imagem:hover {
+    opacity: 0.4;
+}
+
+.train {
+    padding-left: 380px;
+
+}
+
+#an {
+    margin-left: -170px;
+    color: black;
+    text-decoration: none;
+}
+
+#bn {
+    margin-left: -26px;
+    color: black;
+    text-decoration: none;
+}
+
+#cn {
+    margin-left: -25px;
+    color: black;
+    text-decoration: none;
+}
+
+#intens {
+    background-color: rgb(150, 150, 150);
+}
+
+#final {
+    background-color: rgb(27, 27, 27);
+    color: white;
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:center;
+    font-size: 12px;
+}
+
+#logo_final {
+    text-align: center;
+ 
+}
+
+/* .icons {
+    position: relative;
+    left: 45%;
+
+} */
+
+.imggin {
+    height: 30px;
+    width: 30px;
+}
+
+
+#nav{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:center;
+}

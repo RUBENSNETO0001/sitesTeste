@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(19, 19, 19); 
+}
+#inicio01{
+    background-color: rgb(39, 39, 39); 
+    box-shadow: none;
+    color: aliceblue;
+    display: flex;
+    height: 30px;
+    margin-top: -8px;
+    width: 1366px;
+    margin-left: -8px;
+}
+#nomedaobra{
+    padding-left: 12px;
+}
+#nome_site{
+    margin-top: 4px;
+    margin-left: 13px;
+}
+#voltar{
+    margin-left: 1210px;
+    margin-top: 7px;
+}
+img{
+    height: 310px;
+    width: 220px;
+    margin-top: 30px;
+    margin-left: -40px;
+    background-color: red;
+    
+}
+.two-color-div {
+    position: relative;
+  }
+.hover-link {
+    color: rgb(255, 255, 255); 
+    text-decoration: none; 
+    transition: color 0.3s; 
+  }
+.hover-link:hover {
+    color: rgb(255, 0, 0); 
+  }
+#form02{
+    background-color: rgb(24, 24, 24);
+    box-shadow: none;
+    height: 396px;
+    width: 1340px;
+    margin-top: 48px;
+    margin-left: 5px;
+  }
+div a {
+    display: block;
+    margin-left: 80px;
+  }
+#capa:hover{
+  background-color: red;
+  opacity: 1.1;
+}

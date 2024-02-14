@@ -1,0 +1,15 @@
+/*form{
+    border: 1px solid rgb(255, 255, 255);
+    width: 1000px;
+    padding: 10px;
+    gap: 7px;
+ }
+ table{
+    border: 1px solid rgb(255, 255, 255);
+    width: 500px;
+    padding: 10px;
+    gap: 7px;
+    margin-left: 580px;
+ }
+
+ background: url(https://media.istockphoto.com/id/1202735024/pt/foto/abstract-red-and-black-are-light-pattern-with-the-gradient-is-the-with-floor-wall-metal.jpg?s=170667a&w=0&k=20&c=dc5bNiRoj2opFqW1p0oKD_4wsHojEeila1hybuC1X9E=);  background: url(https://media.istockphoto.com/id/1202735024/pt/foto/abstract-red-and-black-are-light-pattern-with-the-gradient-is-the-with-floor-wall-metal.jpg?s=170667a&w=0&k=20&c=dc5bNiRoj2opFqW1p0oKD_4wsHojEeila1hybuC1X9E=);
