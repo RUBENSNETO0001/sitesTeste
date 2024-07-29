@@ -1,0 +1,108 @@
+
+body {
+  text-align: center;
+  background-image: url(https://i.pinimg.com/originals/cc/0c/5d/cc0c5d1c437d83ee49cbdb66b500e144.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+
+input {
+  display: flex;
+  margin-left: 12px;
+  padding-top: 1px;
+  width: 263px;
+  padding-left: 2%;
+  background-color: black;
+  color: rgb(183, 0, 255);
+}
+
+form {
+  color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgb(49, 49, 49);
+  font-size: 15px;
+  top: 45%;
+  left: 50%;
+  position: fixed;
+  transform: translate(-50%, -50%);
+  border-radius: 3px;
+  box-shadow: inset 0px 12px 25px 5px rgba(0, 0, 0, 0.4);
+  height: 226px;
+  width: 300px;
+}
+
+p {
+  position: fixed;
+  margin-top: 55%;
+  margin-left: 110px;
+  padding: auto;
+  display: flex;
+  padding-top: 12px;
+  transform: translate(-50%, -50%);
+}
+
+ul {
+  background-color: rgb(49, 49, 49);
+  box-shadow: inset 0px 12px 25px 5px rgba(0, 0, 0, 0.4);
+}
+
+#logo {
+  background-color: rgb(49, 49, 49);
+  box-shadow: inset 0px 4px 4px 4px rgba(0, 0, 0, 0.4);
+  height: 30px;
+  width: 112px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#nomelogo {
+  color: #e6e6e6;
+  background: -webkit-linear-gradient(#eee, #c300ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#nomelogo {
+  padding-top: 3px;
+}
+
+#erros {
+  margin-left: -42px;
+  color: rgb(187, 41, 41);
+}
+
+#regin {
+  text-decoration: none;
+  color: rgb(255, 0, 0);
+  transition: 1s;
+}
+
+#regin:hover {
+  color: rgb(183, 0, 255);
+}
+
+#enviar {
+  width: 50px;
+  margin-left: 42%;
+  box-shadow: inset 0px 4px 4px 4px rgba(0, 0, 0, 0.4);
+  background-color: white;
+  color: black;
+}
+
+#enviar:hover {
+  color: rgb(183, 0, 255);
+  background-color: black;
+  box-shadow: inset 0px 4px 4px 4px rgba(255, 255, 255, 0.4);
+}
+
+#nome{
+  text-align: center;
+}
+#senha{
+  text-align: center;
+}
+#email{
+  text-align: center;
+}

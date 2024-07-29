@@ -1,0 +1,71 @@
+<script>
+  function voltar() {
+    window.history.back();
+  }
+</script>
+
+<!DOCTYPE html>
+<html lang="PT-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="CSS/desing_isui.css">
+  <link rel="shortcut icon" href="FAVICON/panda.jpg" type="image/x-icon">
+  <title>Document</title>
+</head>
+<body>
+  <header>
+    <form id="inicio01">
+      <h3 id="nome_site">Store_Nuveen</h3>
+      <a onclick="voltar()" id="voltar">voltar</a>
+    </form>
+
+    <form id="lobbasic">
+      <img src="IMG/Dead_cells_cover_art.png" alt="deadcells">
+
+      <div id="nome">
+        <h2>Obra: </h2>
+        <h2 id="nomedaobra">Dead cells</h2>
+      </div>
+    </form>
+
+    <div id="descricao">
+      <h3>Descrição:</h3>
+      <h4 id="descrisui">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam quos odio mollitia sunt eum soluta nobis, inventore praesentium saepe cum laudantium eos. Quod nam enim ea porro illum placeat reiciendis.</h3>
+    </div>
+
+    <form id="capitulos">
+      <h3>Categoria:</h3>
+
+      <button type="button" class="btn btn-outline-light" id="categoria01">AVENTURA</button>
+      <button type="button" class="btn btn-outline-light" id="categoria01">SUSPENSE</button>
+      <button type="button" class="btn btn-outline-light" id="categoria01">GUERRA</button>
+
+    </form>
+
+    <div id="autor">
+      <h3>Autor:</h3>
+      <h4 id="auro">Motion Twin</h4>
+    </div>
+
+    <form id="comentario">
+       <p id="cn">Comentario</p>
+      <p id="quadrado">  
+      
+      <input name="comentario" id="comenti" placeholder="campo do comentario"> 
+      <input type="button" value="enviar" id="enviar">
+      </p>
+    </form>
+   <script>// mo preguiça de fazer um banco dados para armazena o nome email e senha e colocar transferir o comentario para o campo de comentario e fazer funcionar</script>
+  </header>
+
+  <main>
+    <form id="caps">
+      <p id="nome_download">Download: </p>
+      <p id="arquivo"><input type="button" name="anexo" id = "anexo" onclick="location.href='#'" value="arquivo"></p>
+      </form>
+  </main>
+
+</body>
+</html>

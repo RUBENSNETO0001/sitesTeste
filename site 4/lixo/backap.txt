@@ -1,0 +1,146 @@
+
+  <script> /*
+      <form id="lobbasic">
+    <img src="https://i1.sndcdn.com/artworks-Buw1khtOkaV2okc4-WBETLQ-t500x500.jpg" alt="fnaf">
+
+    <div id="nome">
+      <h2>Obra: </h2>
+      <h2 id="nomedaobra">Fazbear Tycoon</h2>
+    </div>
+  </form>
+
+  <div id="descricao">
+    <h3>Descrição:</h3>
+    <h4 id="descrisui">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam quos odio mollitia sunt eum soluta nobis, inventore praesentium saepe cum laudantium eos. Quod nam enim ea porro illum placeat reiciendis.</h3>
+  </div>
+
+  <form id="capitulos">
+    <h3>Categoria:</h3>
+
+    <button type="button" class="btn btn-outline-light" id="categoria01">TERROR</button>
+    <button type="button" class="btn btn-outline-light" id="categoria01">SUSPENSE</button>
+    <button type="button" class="btn btn-outline-light" id="categoria01">BL</button>
+
+  </form>
+
+  <div id="autor">
+    <h3>Autor:</h3>
+    <h4 id="auro">@Undead_Army1987</h4>
+  </div>
+
+  <form id="comentario">
+     <p id="cn">Comentario</p>
+    <p id="quadrado">  
+    
+    <input name="comentario" id="comenti" placeholder="campo do comentario"> 
+    <input type="button" value="enviar" id="enviar">
+    </p>
+  </form>
+    */
+  </script>
+
+/*infor antigo*/
+/*
+img {
+    height: 85%;
+    width: 18%;
+    margin-top: 28px;
+    margin-left: 20px;
+}
+
+#lobbasic {
+    background-color: rgb(34, 34, 34);
+    display: flex;
+    color: aliceblue;
+    height: 400px;
+}
+
+#nome {
+    display: flex;
+    margin-left: 55px;
+    margin-top: 25px;
+}
+
+#descricao {
+    display: flex;
+    margin-left: 320px;
+    margin-top: -340px;
+    width: 500px;
+    color: aliceblue;
+}
+
+#descrisui {
+    padding-left: 12px;
+}
+
+#capitulos {
+    display: flex;
+    margin-left: 320px;
+    color: aliceblue;
+}
+
+#categoria01 {
+    margin-left: 12px;
+    height: 29px;
+    margin-top: 16px;
+}
+
+#comentario {
+    margin-left: 900px;
+
+}
+
+#comenti {
+    width: 344px;
+    margin-top: 75px;
+    margin-left: -99.9px;
+    height: 25px;
+}
+
+#cn {
+    margin-top: -232px;
+    color: rgb(183, 0, 255);
+    background-color: rgb(66, 66, 66);
+    width: 400px;
+}
+
+#enviar {
+    margin-left: 124%;
+    margin-top: -22px;
+}
+
+#quadrado {
+    margin-top: -15px;
+    width: 200px;
+    height: 0px;
+    border: 100px solid;
+    border-color: rgb(53, 53, 53);
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+    display: flex;
+    padding-top: 2px;
+}
+
+#autor {
+    display: flex;
+    margin-left: 321px;
+    width: 500px;
+    color: aliceblue;
+}
+
+#auro {
+    position: relative;
+    left: 29%;
+    top: 313px;
+    color: rgb(183, 0, 255);
+}
+
+#mensagens {
+    position: relative;
+    left: 500px;
+}
+*/
+/*infor*/
