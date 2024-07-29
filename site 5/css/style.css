@@ -1,0 +1,431 @@
+/*toda a pag*/
+* {
+    margin: 0;
+}
+
+/*toda a pag*/
+/*header*/
+/*banner*/
+#banner {
+    width: 100%;
+    margin-top: -36px;
+    height: 700px;
+
+}
+
+#text_banner {
+    color: #ff0000;
+    position: absolute;
+    left: 80%;
+    top: 30%;
+    font-size: 40px;
+}
+#text_banner02 {
+    color: #ff0000;
+    position: absolute;
+    left: 85%;
+    top: 44.5%;
+    font-size: 40px;
+}
+#text_banner03 {
+    color: #ff0000;
+    position: absolute;
+    left: 90%;
+    top: 30%;
+    font-size: 40px;
+}
+/*banner*/
+#header {
+    background-color: #000000;
+    opacity: 40%;
+    color: #ffffff;
+}
+
+#logo {
+    color: #ffffff;
+    opacity: 100%;
+}
+
+#nav_links {
+    text-align: end;
+    margin-top: -23px;
+    opacity: 100%;
+}
+
+.links {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.links:hover {
+    color: #ff0000;
+
+}
+
+#strong_link {
+    background-color: rgb(129, 129, 129);
+}
+
+/*header*/
+
+/*main*/
+/*produtos*/
+#div_texto_produto {
+    text-align: center;
+    background-color: #9C9C9C;
+    position: absolute;
+    width: 200px;
+    left: 50%;
+    top: 93.2%;
+    transform: translateX(-50%);
+    /*transform vai centralizar a div*/
+}
+
+#texto_produto {
+    color: #000000;
+}
+
+#produtos {
+    background-color: #D9D9D9;
+    position: absolute;
+    width: 480px;
+    height: 173px;
+    left: 50%;
+    top: 96.6%;
+    transform: translateX(-50%);
+    /*transform vai centralizar a div*/
+}
+
+.img_produtos {
+    height: 146px;
+    width: 118px;
+    padding-left: 30px;
+    padding-top: 12px;
+}
+
+.links_produtos {
+    text-decoration: none;
+    color: #ffffff;
+    position: relative;
+    top: -30px;
+    background-color: rgb(0, 0, 0, 0.6);
+    filter: blur(0, 0, 0, 50%);
+}
+
+#links_produtos01 {
+    position: relative;
+    left: 30px;
+    font-size: 15.1px;
+}
+
+#links_produtos02 {
+    position: relative;
+    left: 60px;
+    font-size: 15.1px;
+}
+
+#links_produtos03 {
+    position: relative;
+    left: 90px;
+    font-size: 15.1px;
+}
+
+/*produtos*/
+
+/*sobre nós*/
+#div_sobrenos {
+    text-align: center;
+    background-color: #9C9C9C;
+    color: #000000;
+    position: absolute;
+    width: 200px;
+    left: 50.5%;
+    top: 149%;
+    /*nome evento*/
+}
+
+#div_sobrenos_text02 {
+    text-align: center;
+    background-color: #D9D9D9;
+    color: #000000;
+    position: absolute;
+    left: 47.5%;
+    top: 152.4%;
+    width: 277px;
+    height: 131px;
+}
+
+#img_sobrenos {
+    height: 150px;
+    width: 200px;
+    position: absolute;
+    top: 149%;
+    left: 50%;
+    /*isso vai ate a metade da pag*/
+    margin-left: -240px;
+    /*aqui eu vou adianta sem mecher na porcentagem*/
+}
+
+/*sobre nós*/
+
+/*eventos*/
+#produto {
+    background-color: #e40414;
+    border: #ff0000 solid;
+    height: 200px;
+    margin-top: 516px;
+
+}
+
+#div_Eventos_cocacola {
+    text-align: center;
+    background-color: #ff0000;
+    color: #ffffff;
+    position: absolute;
+    width: 200px;
+    left: 50%;
+    top: 190%;
+    transform: translateX(-50%);
+    /*transform vai centralizar a div*/
+}
+
+#ul_img_evento {
+    text-align: center;
+    /* Centraliza horizontalmente */
+    position: relative;
+    margin-top: -180px;
+}
+
+.img_evento {
+    display: inline-block;
+    /* Permite que as imagens fiquem uma ao lado da outra */
+    margin: 0 10px;
+    /* Espaçamento entre as imagens */
+    height: 146px;
+    width: 118px;
+}
+
+#img_decoracao{
+    width: 100%;
+    position: relative;
+}
+/*eventos*/
+
+/*equipe*/
+#div_equipe {
+    text-align: center;
+    background-color: #ff0000;
+    color: #ffffff;
+    position: relative;
+    width: 200px;
+    margin-left: 50%;
+    margin-top: 10%;
+    transform: translateX(-50%);
+    /*transform vai centralizar a div*/
+}
+
+.img_equipe {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+/*CEO*/
+#img_ceo {
+    margin-top: 30px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+#equipe_ceo {
+    background-color: #9C9C9C;
+    width: 124px;
+    margin-top: -26px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+#equipe_ceo02 {
+    background-color: #9C9C9C;
+    width: 41px;
+    margin-top: 10px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+#div_equipe_ceo {
+    background-color: #9C9C9C;
+    width: 400px;
+    margin-top: 10px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+/*CEO*/
+/*gerente financeiro*/
+#equipe_gerente {
+    background-color: #9C9C9C;
+    width: 118px;
+    margin-top: -26px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+#equipe_gerente02 {
+    background-color: #9C9C9C;
+    width: 150px;
+    margin-top: 10px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+/*gerente financeiro*/
+/*Gerente de Estoque*/
+#equipe_gerente01 {
+    background-color: #9C9C9C;
+    width: 99px;
+    margin-top: -26px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+#equipe_gerente03 {
+    background-color: #9C9C9C;
+    width: 160px;
+    margin-top: 10px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+/*Gerente de Estoque*/
+/*estoque*/
+#equipe_entregador {
+    background-color: #9C9C9C;
+    width: 115px;
+    margin-top: -26px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+#equipe_entregador02 {
+    background-color: #9C9C9C;
+    width: 95px;
+    margin-top: 10px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+/*estoque*/
+#equipe_programou {
+    background-color: #9C9C9C;
+    width: 105px;
+    margin-top: -26px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+#equipe_programou02 {
+    background-color: #9C9C9C;
+    width: 109px;
+    margin-top: 10px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+/*equipe*/
+/*FAQ*/
+#div_faq {
+    text-align: center;
+    background-color: #555555;
+    color: #e40414;
+    position: relative;
+    width: 200px;
+    margin-left: 50%;
+    margin-top: 10%;
+    transform: translateX(-50%);
+    /*transform vai centralizar a div*/
+}
+
+.div_pergunta {
+    color:#e40414;
+    background-color: #888888;
+    text-align: center;
+}
+
+.text_faq {
+    color: #D9D9D9;
+    background-color: #555555;
+    height: 100px;
+}
+
+.pergunta {
+    width: 300px;
+    display: inline-grid;
+    margin-left: 10px;
+    margin-top: 20px;
+    position: relative;
+    left: 15%;
+    transform: translateX(2%);
+}
+
+.pergunta02 {
+    width: 300px;
+    margin-left: 10px;
+    margin-top: 20px;
+    position: relative;
+    left: 15%;
+    transform: translateX(2%);
+    display: inline-table;
+}
+
+#text_faq02 {
+    color: #D9D9D9;
+    background-color: #555555;
+    height: 82px;
+}
+
+.div_pergunta02 {
+    color:#e40414;
+    background-color: #888888;
+    text-align: center;
+
+}
+
+/*FAQ*/
+/*main*/
+
+/*footer*/
+
+#footer {
+    position: relative;
+    width: 100%;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 10%;
+    height: 229px;
+}
+
+#img_logo_footer {
+    width: 100px;
+    margin-top: 20px;
+}
+
+#contato {
+    text-align: start;
+}
+
+#linker_footer {
+    text-align: end;
+    margin-top: -110px;
+}
+
+#endereco {
+    text-align: center;
+    margin-top: -2px
+}
+
+/*footer*/
+/*posisão dos quadro*/
+
+/*posisão dos quadro*/

@@ -1,0 +1,28 @@
+
+                <fieldset id="fieldqset01">
+                    <div id="fa1">
+                        <div class="div_pergunta" style="color: #ff0000;">
+                            <h4>Qual é o tamanho de uma lata de Coca-Cola?</h4>
+
+
+                            <h6 class="text_faq" style="color: #ffffff">As latas de Coca-Cola geralmente têm um tamanho
+                                padrão de 12 onças fluidas nos EUA, o que equivale a cerca de 355 ml. No entanto, o
+                                tamanho pode variar em diferentes países.</h6>
+                        </div>
+
+                </fieldset>
+                <fieldset id="fieldqset01">
+                    <div id="fa1">
+                        <div class="div_pergunta" style="color: #ff0000;">
+                            <h4>Qual é o valor nutricional da Coca-Cola?</h4>
+
+
+                            <h6 class="text_faq" style="color: #ffffff">Uma lata de Coca-Cola Original contém
+                                aproximadamente 140 calorias, 39 gramas de carboidratos (todos açúcares), e não contém
+                                gordura ou proteína.</h6>
+                        </div>
+
+                </fieldset>
+            </div>
+        </div>*/
+</script>
