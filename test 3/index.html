@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="js/script.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+    <title>Calcuiadora</title>
+</head>
+<body>
+    <header>
+        <p id="alertar"></p>
+    </header>
+    <main>
+       <!--interface da calculadora-->
+        <form id="face_calculadora">
+            <input type="number" id="n1" class="number">
+            <p id="mais">+</p>
+            <input type="number" id="n2" class="number">
+            <input type="button" value="=" onclick="calcular()" id="btn">
+              
+        </form>
+        <!--resultado-->
+        <nav>
+            <div id="body_attecion">
+              <p id="resultado"></p>
+            </div>
+        </nav>
+    </main>
+</body>
+</html>
